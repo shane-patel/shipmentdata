@@ -1,4 +1,5 @@
-[
+{
+    "Cases": [
     {
         "carrier": "UPS",
         "case number": "23534",
@@ -138,3 +139,4 @@
         "tracking_number": "6197522597"
     }
 ]
+}
